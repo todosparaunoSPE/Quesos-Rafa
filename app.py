@@ -31,7 +31,7 @@ def main():
         
     # Incluir imágenes
     st.image("1.jpg", caption="Queso Oaxaca, directamente de Santa Isabel Tetlatlahuca,Tlaxcala", use_column_width=True)
-    st.image("2.jpg", caption="Queso Requesón, directamente de Santa Isabel Tetlatlahuca,Tlaxcala", use_column_width=True)
+    st.image("2.jpg", caption="Requesón, directamente de Santa Isabel Tetlatlahuca,Tlaxcala", use_column_width=True)
     st.image("3.jpg", caption="Queso Botanero, directamente de Santa Isabel Tetlatlahuca,Tlaxcala", use_column_width=True)    
     st.image("4.jpg", caption="Tlacoyos estilo, Nanacamilpa, Tlaxcala", use_column_width=True)  
 
